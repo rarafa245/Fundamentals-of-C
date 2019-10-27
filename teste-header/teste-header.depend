@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572206894 source:/home/rafael/Projects/C_fundamentals/teste-header/calculos.c
+	"calculos.h"
+
+1572207270 /home/rafael/Projects/C_fundamentals/teste-header/calculos.h
+
+1572207075 source:/home/rafael/Projects/C_fundamentals/teste-header/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
